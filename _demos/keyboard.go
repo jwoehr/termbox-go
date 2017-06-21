@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nsf/termbox-go"
+import "github.com/jwoehr/termbox-go"
 import "fmt"
 
 type key struct {

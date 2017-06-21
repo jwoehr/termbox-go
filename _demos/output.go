@@ -1,7 +1,7 @@
 package main
 
-import "github.com/mattn/go-runewidth"
-import "github.com/nsf/termbox-go"
+import "github.com/jwoehr/go-runewidth"
+import "github.com/jwoehr/termbox-go"
 
 const chars = "nnnnnnnnnbbbbbbbbbuuuuuuuuuBBBBBBBBB"
 
